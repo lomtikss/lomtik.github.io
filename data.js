@@ -95,4 +95,5 @@ const animeData = [
   { title: "Убийца Акамэ!", titleEn: "Akame ga Kill!", cover: "images/akame.jpg", rating: 4 },
   { title: "Гуррен-Лаганн, пронзающий небеса", titleEn: "Tengen Toppa Gurren Lagann", cover: "images/gurren.jpg", rating: 4 },
   { title: "Унесённые призраками", titleEn: "Spirited Away", cover: "images/wow.jpg", rating: 4 },
+  { title: "Второй размер, интим предлагать", titleEn: "Yamada's First Time", cover: "images/dvarazmer.jpg", rating: 4 },
 ];
