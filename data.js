@@ -98,4 +98,5 @@ const animeData = [
   { title: "Второй размер, интим предлагать", titleEn: "Yamada's First Time", cover: "images/dvarazmer.jpg", rating: 4 },
   { title: "Магическая битва", titleEn: "Jujutsu Kaisen", cover: "images/magica.jpg", rating: 3.5 },
   { title: "Заботливая 800-летняя жена!", titleEn: "The Helpful Fox Senko-san", cover: "images/senko.jpg", rating: 4 },
+  { title: "Морская невеста", titleEn: "My Bride is a Mermaid", cover: "images/more.jpg", rating: 4.5 },
 ];
