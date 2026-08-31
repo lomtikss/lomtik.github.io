@@ -27,7 +27,7 @@ const animeData = [
   { title: "Жозе, тигр и рыбы", titleEn: "Josee, the Tiger and the Fish", cover: "images/josee_the_tiger_and_the_fish.jpg", rating: 3.5 },
   { title: "Загадочная девушка X", titleEn: "X (X/1999)", cover: "images/x_x_1999.jpg", rating: 2 },
   { title: "Звёздное дитя", titleEn: "Oshi no Ko", cover: "images/oshi_no_ko.jpg", rating: 3 },
-  { title: "Золотая пора", titleEn: "Golden Time", cover: "images/golden_time.jpg", rating: 3 },
+  { title: "Золотая пара", titleEn: "Golden Time", cover: "images/golden_time.jpg", rating: 3 },
   { title: "Кланнад", titleEn: "Clannad", cover: "images/clannad.jpg", rating: 5 },
   { title: "Клинок, рассекающий демонов", titleEn: "Demon Slayer: Kimetsu no Yaiba", cover: "images/demon_slayer_kimetsu_no_yaiba.jpg", rating: 4 },
   { title: "Код Гиасс", titleEn: "Code Geass: Lelouch of the Rebellion", cover: "images/code_geass_lelouch_of_the_rebellion.jpg", rating: 4.5 },
@@ -99,4 +99,5 @@ const animeData = [
   { title: "Магическая битва", titleEn: "Jujutsu Kaisen", cover: "images/magica.jpg", rating: 3.5 },
   { title: "Заботливая 800-летняя жена!", titleEn: "The Helpful Fox Senko-san", cover: "images/senko.jpg", rating: 4 },
   { title: "Морская невеста", titleEn: "My Bride is a Mermaid", cover: "images/more.jpg", rating: 4.5 },
+  { title: "Достучаться до тебя", titleEn: "Kimi ni Todoke: From Me to You", cover: "images/tebya.jpg", rating: 3.5 },
 ];
